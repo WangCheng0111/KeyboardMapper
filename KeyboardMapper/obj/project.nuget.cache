@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PnHR/95iznU=",
+  "success": true,
+  "projectFilePath": "C:\\WPF\\KeyboardMapper\\KeyboardMapper\\KeyboardMapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam的电脑\\.nuget\\packages\\hardcodet.notifyicon.wpf\\2.0.1\\hardcodet.notifyicon.wpf.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
